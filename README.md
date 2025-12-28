@@ -36,3 +36,23 @@ Automated image classification enables:
 ---
 
 ## Repository Structure
+
+
+---
+
+## Key Results
+- Successfully trained a CNN on FashionMNIST
+- Evaluated model using accuracy, precision, and recall
+- Demonstrated applicability to real-world e-commerce workflows
+
+---
+
+## Certification
+This project is part of a verified DataCamp learning experience.  
+Certificate and verification details are available in the `docs/` directory.
+
+---
+
+## Author
+Ahmed Saeed
+
